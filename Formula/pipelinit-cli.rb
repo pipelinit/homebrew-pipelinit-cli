@@ -1,8 +1,8 @@
 class PipelinitCli < Formula
   desc "Automatically generates pipelines for your project"
   homepage "https://pipelinit.com"
-  url "https://github.com/pipelinit/pipelinit-cli/archive/refs/tags/v0.1.0-brew.tar.gz"
-  sha256 "88f7dda931f1a7e3ed92618ee18b541d342105a9cd88eaae56865e4cd5d5589e"
+  url "https://github.com/pipelinit/pipelinit-cli/archive/refs/tags/v0.1.0.tar.gz"
+  sha256 "5872d56d277d5eba598ee4ebde19a4e0b5ff00ed07424be492087b5eebe23af3"
   license "MIT"
 
   depends_on "deno" => :build
